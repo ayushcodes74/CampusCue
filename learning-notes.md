@@ -20,3 +20,9 @@
 - Test every feature
 - Commit meaningful progress
   
+
+  ## Learning Log — 20 Nov 2026
+
+- Reviewed the CampusCue backend structure.
+- Identified the purpose of Event model, routes and controllers.
+- Next: Understand Express routes and write them independently.
